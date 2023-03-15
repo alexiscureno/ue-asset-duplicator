@@ -20,5 +20,5 @@ This scripts duplicates selected Unreal assets multiple times.
 3. Locate your script in your project's files and run it.
 
 # Notes
-* The tool will create 50 copies of each selected asset by default. You can change this value by modifying the ```num_copies``` variable in the script.
+* The tool will create as many copies as you select. You can change this value by modifying the ```num_copies``` variable in the script.
 * The duplicated assets will be named using the format ```original_name_0```, ```original_name_1```, etc. You can change this format by modifying the ```new_name``` variable in the script.

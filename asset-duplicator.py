@@ -17,7 +17,7 @@ num_assets = len(selected_assets)
 
 
 # Set the number of times each asset will be duplicated.
-num_copies = 50
+num_copies = 0
 
 # Calculate the total number of copies that will be made.
 total_num_copies = num_assets * num_copies
